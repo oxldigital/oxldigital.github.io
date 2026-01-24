@@ -1,0 +1,51 @@
+# Jekyll configuration for GitHub Pages
+title: OXL Digital Portfolio
+description: Professional Portfolio - Full-Stack Developer
+author: OXL Digital
+email: contact@oxldigital.com
+
+# GitHub Pages settings
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+  entity_output: numeric
+
+# Output settings
+permalink: /:title/
+future: false
+
+# Sass/SCSS settings
+sass:
+  style: compressed
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Front matter defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Social media links (optional)
+social:
+  links:
+    - https://twitter.com
+    - https://linkedin.com
+    - https://github.com
+
+# Logo settings
+logo: /assets/logo.png
+
+# Site settings
+url: "https://oxldigital.github.io"
+baseurl: ""
