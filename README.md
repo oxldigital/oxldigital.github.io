@@ -9,6 +9,7 @@
 **[OXL Digital](https://oxldigital.com)** is a full-service digital marketing agency specializing in in-house SEO optimization and high-quality content creation. We help businesses increase their online visibility, drive organic traffic, and convert visitors into loyal customers through data-driven strategies and compelling content.
 
 
+
 ---
 
 ## 💼 Our Core Services
@@ -85,10 +86,10 @@ An AI-powered chatbot platform that helps businesses build smart chatbots withou
 - Real-time analytics and insights
 - Enterprise-grade security and data protection
 
-### 🔧 [Tookzoon](https://tookzoon.com)
+### 🔧 [Toolzoon](https://toolzoon.com)
 A comprehensive digital tools platform offering various utilities for content creators, marketers, and developers. Tookzoon demonstrates our ability to build SEO-optimized platforms that serve real user needs while maintaining excellent user experience.
 
-### 📝 Summarizing Tool
+### 📝 [Summarizing Tool](https://www.summarizingtool.io/)
 An AI-powered content summarization tool that helps users quickly extract key insights from long-form content. This project showcases our technical capabilities and understanding of content optimization, natural language processing, and user-centric design.
 
 ---
